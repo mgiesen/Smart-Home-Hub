@@ -35,7 +35,7 @@ To enable a good availability, the UI is served as a webapp, stored on the ESP82
 ![Webapp](Images/webapp.jpg "Webapp")
 
 ### UI Lookaround
-![alt text](https://github.com/magie004/SmartHomeHub/blob/main/img/app.gif " ")
+![Lookaround](Images/app.gif "Lookaround")
 
 ### Assembling 
 [![Assembling Video](Images/youtube.jpg)](https://www.youtube.com/watch?v=qMJYErCeu4k "Assembling Video")
