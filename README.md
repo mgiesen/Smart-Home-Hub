@@ -34,6 +34,9 @@ I realised that many RGB LEDs sharing the same pin-layout, but the one half is u
 To enable a good availability, the UI is served as a webapp, stored on the ESP8266. Every modern Browser can open the interface, as long as it is connected to a local wifi. To setup the Smart Home Hub, there is an captive portal to enter the wifi credentials. For design reasons I implemented a solution, but there are plenty of very good librarys for that. 
 ![Webapp](Images/webapp.jpg "Webapp")
 
+### UI Lookaround
+![alt text](https://github.com/magie004/SmartHomeHub/blob/main/img/app.gif " ")
+
 ### Assembling 
 [![Assembling Video](Images/youtube.jpg)](https://www.youtube.com/watch?v=qMJYErCeu4k "Assembling Video")
 
