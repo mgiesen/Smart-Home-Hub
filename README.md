@@ -35,7 +35,7 @@ To enable a good availability, the UI is served as a webapp, stored on the ESP82
 ![Webapp](Images/webapp.jpg "Webapp")
 
 ### UI Lookaround
-![Lookaround](Images/app.gif "Lookaround")
+<img src="Images/app.gif" width="280">
 
 ### Assembling 
 [![Assembling Video](Images/youtube.jpg)](https://www.youtube.com/watch?v=qMJYErCeu4k "Assembling Video")
